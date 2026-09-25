@@ -1,6 +1,5 @@
 # =========================================================
 # SISTEM LOKET TERPADU & AUDIT TRANSAKSI EKSPEDISI WAHANA
-# Modul Pekan 4 - Praktikum Struktur Data
 # =========================================================
 
 # Input Data Pengunjung & String Handling
