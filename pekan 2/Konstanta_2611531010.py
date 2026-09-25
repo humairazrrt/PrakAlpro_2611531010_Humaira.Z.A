@@ -5,6 +5,6 @@
 from typing import Final
 PI: Final = 3.14
 print("pi: %f" %(PI))
-jari_1234 = float(input('Masukkan nilai jari-jari: '))
-luas_1234 = PI * jari_1234 * jari_1234
-print("Luas lingkaran dengan jari-jari %.2f adalah %.2f" %(jari_1234, luas_1234))
+jari_1010 = float(input('Masukkan nilai jari-jari: '))
+luas_1010 = PI * jari_1010 * jari_1010
+print("Luas lingkaran dengan jari-jari %.2f adalah %.2f" %(jari_1010, luas_1010))

@@ -4,9 +4,9 @@
 # Program ini menggunakan fungsi input() untuk meminta pengguna
 # memasukkan nila panjang dann lebar persegi panjang.
 # Nilai yang dimasukkan akan dikonversi menjadi tipe data integer
-panjang_1234 = input('Masukkan nilai panjang')
-lebar_1234 = input('Masukkan nilai lebar')
-luas_1234 = int(panjang_1234) * int(lebar_1234)
-print("Luas =", luas_1234)
+panjang_1010 = input('Masukkan nilai panjang')
+lebar_1010 = input('Masukkan nilai lebar')
+luas_1010 = int(panjang_1010) * int(lebar_1010)
+print("Luas =", luas_1010)
 
    
