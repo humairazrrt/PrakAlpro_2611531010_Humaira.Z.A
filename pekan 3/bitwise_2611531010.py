@@ -1,4 +1,5 @@
 # Buat file dengan nama bitwise_NIM.py
+# Program bitwise dalam Python
 # Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
 # Program ini menggunakan fungsi input()
 

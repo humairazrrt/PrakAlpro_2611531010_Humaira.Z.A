@@ -1,4 +1,7 @@
+# Buat file dengan nama logika_NIM.py
 # Program operator logika dalam python
+# Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
+# Program ini menggunakan fungsi input()
 
 # Memasukkan nilai boolean
 # Input tidak peka terhadap huruf besar dan kecil

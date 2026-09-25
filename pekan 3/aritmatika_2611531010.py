@@ -1,4 +1,7 @@
+# Buat file dengan nama aritmatika_NIM.py
 # Buat program untuk operator aritmatika dalam Pyhton
+# Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
+# Program ini menggunakan fungsi input()
 
 angka1_1010 = int(input("Input angka-1:"))
 angka2_1010 = int(input("Input angka-2:"))

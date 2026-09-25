@@ -1,4 +1,7 @@
+# Buat file dengan nama lainnya_NIM.py
 # Program keanggotaan dan identitas dalam python
+# Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
+# Program ini menggunakan fungsi input()
 
 print("==================================")
 print("1.OPERATOR KEANGGOTAAN")

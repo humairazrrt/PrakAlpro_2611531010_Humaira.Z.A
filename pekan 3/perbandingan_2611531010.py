@@ -1,4 +1,8 @@
+# Buat file dengan nama perbandingan_NIM.py
 # Program operator perbandingan dalam python
+# Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
+# Program ini menggunakan fungsi input()
+
 
 angka1 = int(input("Input angka-1:"))
 angka2 = int(input("Input angka-2:"))

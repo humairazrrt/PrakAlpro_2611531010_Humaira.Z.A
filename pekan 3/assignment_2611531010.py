@@ -1,5 +1,7 @@
-
+# Buat file dengan nama assignment_NIM.py
 # Program assignment dalam python
+# Nama variabel ditambah 4 digit nim terakhir contoh: angka1_1234
+# Program ini menggunakan fungsi input()
 
 angka1_1010 = int(input("Input angka-1:"))
 angka2_1010 = int(input("Input angka-2:"))
