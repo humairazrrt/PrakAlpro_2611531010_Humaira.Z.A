@@ -6,9 +6,9 @@
 ulang_1010 = int(input("Masukkan jumlah perulangan: "))
 
 jumlah_1010 = 0
-for i_1010 in range(1_1010, ulang_1010 + 1):
+for i_1010 in range(1, ulang_1010 + 1):
     print(i_1010, end=" ")
-    jumlah_1010 = jumlah_1010 + 1
+    jumlah_1010 = jumlah_1010 + i_1010
     
     if i_1010 < ulang_1010:
         print("+", end="")
