@@ -1,7 +1,11 @@
-Nama = input("Masukkan Kalimat:")
-nama = Nama.lower().strip()
-nama_terbalik = nama[::-1]
-if nama == nama_terbalik:
+# Name: <Humaira Zahratul 'Aini>
+# NIM: <2611531010>
+# Question Bonus
+
+kalimat = input("Masukkan Kalimat: ")
+teks = kalimat.replace(" "," ").lower()
+if teks == teks[::-1]:
     print("Palindrome")
 else:
-    print("Not a palindrome")
+    print("Not a Palindrome")
+    
